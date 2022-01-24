@@ -18,9 +18,11 @@ social: true
 
 I am a Senior Engineer in the Science Analysis and Modeling Section of the Johns Hopkins University Applied Physics Laboratory.
 I work on software for automated spacecraft command scheduling.
-My research interests lie in the optimization of spacecraft design. My particular interest is how spacecraft operation and mission success criteria impact mission performance.
+My research interests lie in the optimization of spacecraft design and operations.
+My particular interest is how spacecraft operation and mission success criteria impact mission performance.
 
-Previously, I received a Ph.D. in Mechanical and Aerospace Engineering from Cornell University with a specialization in Operations Research as well as a masters of science in Aerospace Engineering and a masters of engineering.
-I received my B.S. in Mechanical Engineering from Michigan Technological University.
+Previously, I received a Ph.D. in Mechanical and Aerospace Engineering from Cornell University with a specialization in Operations Research.
+My thesis was on the "Evaluation and Scheduling of Exoplanet Direct Imaging Missions" in the Space Imaging and Optical Sciences Laboratory.
+I also received a masters of science in Aerospace Engineering and a masters of engineering from Cornell and my B.S. in Mechanical Engineering was from Michigan Technological University.
 
 In addition to studying optimization of space engineering challenges, I enjoy woodworking, coding, boardgames, mountain biking, kayaking, and miscellaneious art projects.
