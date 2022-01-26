@@ -109,8 +109,30 @@ plugins:
   - jekyll-paginate-v2
   - jekyll/scholar
   - jemoji
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-scholar
+  - jekyll-gist
+  - jekyll-feed
   # - bootstrap
   # - material-sass
+
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-scholar
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+  - Gemfile
+exclude:
+  - "*.sublime-project"
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
