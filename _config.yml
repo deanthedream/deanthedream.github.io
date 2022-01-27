@@ -116,6 +116,7 @@ plugins:
   - jekyll-feed
   # - bootstrap
   # - material-sass
+plugins_dir: [jekyll-scholar]
 
 # mimic GitHub Pages with --safe
 whitelist:
