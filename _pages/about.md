@@ -16,7 +16,7 @@ news: true
 social: true
 ---
 
-I am a Senior Engineer in the Science Analysis and Modeling Section of the Johns Hopkins University Applied Physics Laboratory.
+I am a Senior Engineer in the Science Analysis and Modeling Group of the Johns Hopkins University Applied Physics Laboratory.
 I work on software for automated spacecraft command scheduling.
 My research interests lie in the optimization of spacecraft design and operations.
 My particular interest is how spacecraft operation and mission success criteria impact mission performance.
